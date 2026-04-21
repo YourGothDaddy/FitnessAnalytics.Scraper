@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessScraper.Core", "FitnessScraper.Core\FitnessScraper.Core.csproj", "{58277099-502F-4F92-8308-7D00FF6C78C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessScraper.Console", "FitnessScraper.Console\FitnessScraper.Console.csproj", "{A4A952E7-91FB-442F-837D-792048767362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58277099-502F-4F92-8308-7D00FF6C78C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58277099-502F-4F92-8308-7D00FF6C78C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58277099-502F-4F92-8308-7D00FF6C78C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58277099-502F-4F92-8308-7D00FF6C78C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A952E7-91FB-442F-837D-792048767362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A952E7-91FB-442F-837D-792048767362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A952E7-91FB-442F-837D-792048767362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A952E7-91FB-442F-837D-792048767362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252F92EE-95AA-455B-A41F-A0902EE5A43C}
+	EndGlobalSection
+EndGlobal
